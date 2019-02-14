@@ -8,7 +8,7 @@
         the login variables to this component.  The CSS also is contained here.  This is probably
         not the right spot for it, but I'm not sure with vue the best place for it to go.
 
-    Notes: Working towards StandardJS.
+    Notes: Working towards StandardJS.ew
 
 ============================================================================================ -->
 
